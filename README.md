@@ -3,8 +3,8 @@ Create HA setup in AWS via terraform
 
 Terraform contains.
 
-1-EC2
-Auto-Scaling
+1-EC2, 
+Auto-Scaling, 
 Load-Balancer
 
 
